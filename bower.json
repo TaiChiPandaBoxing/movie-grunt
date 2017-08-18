@@ -1,0 +1,25 @@
+{
+  "name": "movie-grunt",
+  "description": "movie-grunt movie",
+  "main": "",
+  "authors": [
+    "TaiChiPandaBoxing <809457175@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "movie-grunt"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
